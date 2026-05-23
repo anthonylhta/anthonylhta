@@ -1,16 +1,13 @@
-## Hi there 👋
+### Hi, I'm Anthony
 
-<!--
-**anthonylhta/anthonylhta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science graduate from the University of Sydney, <br>
+building full-stack and AI-integrated web apps. <br>
+Open to graduate Software Engineer roles in Sydney.
 
-Here are some ideas to get you started:
+**Currently building:**
+- [Tone Translator](https://github.com/anthonylhta/tone-translator) — Japanese ↔ English translator with four politeness registers, powered by Claude
+- [WebNovelist](https://github.com/anthonylhta/webnovelist) — Full-stack reading tracker with roles, public profiles, and activity heatmaps
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Tech I work with:** TypeScript · Next.js 16 · React 19 · Python · PostgreSQL · Prisma · Claude API
+
+anthony.ta@live.com
