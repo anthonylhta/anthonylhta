@@ -2,7 +2,7 @@
 
 Computer Science graduate from the University of Sydney, <br>
 building full-stack and AI-integrated web apps. <br>
-Open to graduate Software Engineer roles in Sydney. <br>
+Open to junior Software Engineer roles in Sydney. <br>
 
 I have a big interest in learning languages and have experience with Japanese Korean and Chinese
 
